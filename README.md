@@ -3,10 +3,15 @@
 Producer- Consumer Problem
 
 Project Information
+
 Title: Producer Consumer Problem
+
 Group No.: Project 32
+
 Members: 
+
 Neel Patel       (SJSU ID: 012468599)
+
 Tanmay Jambhekar (SJSU ID: 012525188)
 
 
